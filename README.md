@@ -8,6 +8,7 @@ Reading & Watching list on secrecy, privacy, and information
 
 ## Information & Control
 - Peter Galison. 1994. “The Ontology of the Enemy: Norbert Wiener and the Cybernetic Vision”. Critical Inquiry 21-1, p. 228-266. https://www.jstor.org/stable/1343893
+- Wang Hongzhe, 2014. ‘Manchang de dianzi geming’ (The long electronic revolution: the computer and red China’s technological governance, 1955–1984) 《漫长的电子革命：计算机与红色中国的技术政治1955～1984》
 
 ## Machines of Information
 - John Alan Grier. 2005. When Computers Were Human. Princeton, Princeton University Press https://press.princeton.edu/books/paperback/9780691133829/when-computers-were-human
