@@ -2,9 +2,9 @@
 Reading & Watching list
 
 ## Secrecy
-- Galison, Peter and Rob Moss. 2008 _Secrecy_ https://galison.scholar.harvard.edu/secrecy
+- Galison, Peter and Rob Moss. 2008. _Secrecy_ https://galison.scholar.harvard.edu/secrecy
 - Galison, Peter. “Secrecy in Three Acts.” Social Research 77 (2010): 941-974. https://galison.scholar.harvard.edu/publications/secrecy-three-acts
-- Galison, Peter. 2016 _Secrecy, Surveillance, and the Self_ https://www.youtube.com/watch?v=aNjLBUuX3rs&t=983s 
+- Galison, Peter. 2016. _Secrecy, Surveillance, and the Self_ https://www.youtube.com/watch?v=aNjLBUuX3rs&t=983s 
 
 ## Information & Control
 - Peter Galison. 1994. “The Ontology of the Enemy: Norbert Wiener and the Cybernetic Vision”. Critical Inquiry 21-1, p. 228-266. https://www.jstor.org/stable/1343893
