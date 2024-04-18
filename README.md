@@ -1,5 +1,5 @@
 # Secrecy-Privacy-Research
-Reading & Watching list on secrecy, privacy, and information
+Reading & Watching list on secrecy, privacy, and flow of information
 
 ## Secrecy
 - Galison, Peter and Rob Moss. 2008. _Secrecy_ https://galison.scholar.harvard.edu/secrecy
