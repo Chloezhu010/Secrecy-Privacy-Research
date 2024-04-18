@@ -1,5 +1,5 @@
 # Secrecy-Privacy-Research
-Self research place
+Reading & Watching list
 
 ## Secrecy
 - Galison, Peter and Rob Moss. _Secrecy_ https://galison.scholar.harvard.edu/secrecy
