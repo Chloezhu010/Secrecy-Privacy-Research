@@ -27,4 +27,17 @@ Reading & Watching list on secrecy, privacy, and flow of information
 - Black, Fisher. 1986. Noise. Journal of Finance, vol 41(3): 529-543.
 - Hayek, Friedrich. 1945. The Use of Knowledge in Society. American Economic Review. 35-4, p. 519-530.
 
+## Regulating Information and Privacy Law
+- James Boyle. 1997. Shamans, Software, & Spleens. Cambridge MA, Harvard University Press. Pp81-97 (Insider Trading and the Romantic Entrepreneur)
+
+## Life as Information Biology
+- Kay, Lily. 2000. Who Wrote the Book of Life? A History of the Genetic Code, Stanford, Stanford University Press
+
+## The Infra of Info
+- Christine Hine,“Databases as Scientific Instruments and Their Role in the Ordering of Scientific Work” in Social Studies of Science Vol. 36, No. 2 (2006): 269 - 298.
+
+## The Noise of Crowds: Information, Rumours and the Body Politic
+- Gustave Le Bon. 1895. The Crowd: A study of the Popular Mind. 
+- Borch, Christian. 2013. The Politics of Crowds. An Alternative History of Sociology. Cambridge, Cambridge University Press
+
 ## Territory
