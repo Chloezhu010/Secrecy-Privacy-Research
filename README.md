@@ -2,6 +2,7 @@
 Reading & Watching list on secrecy, privacy, and flow of information
 
 ## Secrecy
+- Simmel, Georg. 1906. “The Sociology of Secrecy and of Secret Societies”. American Journal of Sociology 11-4, p. 441-498. https://www.jstor.org/stable/2762562?seq=21
 - Galison, Peter and Rob Moss. 2008. _Secrecy_ https://galison.scholar.harvard.edu/secrecy
 - Galison, Peter. “Secrecy in Three Acts.” Social Research 77 (2010): 941-974. https://galison.scholar.harvard.edu/publications/secrecy-three-acts
 - Galison, Peter. 2016. _Secrecy, Surveillance, and the Self_ https://www.youtube.com/watch?v=aNjLBUuX3rs&t=983s 
